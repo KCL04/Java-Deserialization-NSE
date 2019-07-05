@@ -12,7 +12,7 @@ Detects vulnerabilities in versions prior to version 7.
 
 author = "Kendrick Lam"
 
-license = "SRLabs"
+license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 
 categories = {"discovery"}
 
