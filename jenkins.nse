@@ -13,7 +13,7 @@ Detects vulnerabilities in versions prior to 1.638 and 1.625.2.
 
 author = "Kendrick Lam"
 
-license = "SRLabs"
+license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 
 categories = {"discovery"}
 
