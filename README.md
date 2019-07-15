@@ -3,7 +3,7 @@ Wrote nse scripts for detecting Java Deserialization vulnerabilities using nmap
 
 Just wrote the scripts, did not come up with vuln detection
 
-Credit for JBoss.nse, Jenkins.nse vuln detection goes to Johndekroon
+Credit for JBoss.nse, Jenkins.nse, and Weblogic.nse vuln detection goes to Johndekroon
 
 see: https://github.com/johndekroon/serializekiller
 
