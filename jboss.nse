@@ -11,7 +11,7 @@ Java Deserialization vulnerability scanner for JBoss webserver.
 Detects vulnerabilities in versions prior to version 7.
 ]]
 
-author = "KL"
+author = "Kendrick Lam"
 
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 
